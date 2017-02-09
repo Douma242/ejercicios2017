@@ -19,5 +19,9 @@ class Explorer(object):
 
 	def eliminartodas(self):
 		self.tabs= False
+		self.urls= False
+
+	def 
+
 
 
