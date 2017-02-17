@@ -1,2 +1,3 @@
 def calculo(b,a):
-		return ("*"*b+"\n")*a
+
+	return ("*"*b+"\n")*a
